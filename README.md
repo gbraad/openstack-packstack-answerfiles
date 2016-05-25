@@ -5,7 +5,8 @@ This archive contains answerfiles for use with OpenStack [PackStack][packstack].
 
 Some additional information
 
-  * [Multinode](multinode.md)
+  * [Multinode](doc/multinode.md)
+  * [Options to consider](doc/options.md)
 
 
 Authors
